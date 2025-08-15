@@ -1,4 +1,6 @@
-<img width="99" height="100" alt="Image" src="https://inbetween-time.web.app/images/PY_SCRIPT_LOGO.png" />
+<p align="center">
+	<img width="200" height="200" alt="Image" src="https://inbetween-time.web.app/images/PS_LOGO.png" />
+</p>
 
 # py-script
 
