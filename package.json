@@ -1,7 +1,7 @@
 {
   "name": "@gilbertfrausto/py-script",
   "version": "1.0.0",
-  "description": "A lightweight and versatile library for running Python scripts in modern JavaScript and TypeScript applications.",
+  "description": "A lightweight and versatile library for running your favorite native Python methods in modern JavaScript and TypeScript applications.",
   "author": "Gilbert Frausto",
   "license": "MIT",
   "repository": {
