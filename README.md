@@ -16,7 +16,7 @@ npm install @gilbertfrausto/py-script
 Just import any of the methods you need, just like so.
 
 ```typescript
-import { len, range } from 'py-script';
+import { len, range } from '@gilbertfrausto/py-script';
 
 const arr = [0,1,2,4];
 
