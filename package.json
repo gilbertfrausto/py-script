@@ -1,0 +1,40 @@
+{
+  "name": "@gilbertfrausto/py-script",
+  "version": "1.0.0",
+  "description": "A lightweight and versatile library for running Python scripts in modern JavaScript and TypeScript applications.",
+  "author": "Gilbert Frausto",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilbertfrausto/py-script.git"
+  },
+  "homepage": "https://github.com/gilbertfrausto/py-script",
+  "bugs": {
+    "url": "https://github.com/gilbertfrausto/py-script/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "python",
+    "javascript",
+    "typescript",
+    "py-script",
+    "scripts"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.9.2"
+  },
+  "peerDependencies": {}
+}

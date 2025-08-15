@@ -1,0 +1,11 @@
+test/
+tsconfig.json
+exmaples.md
+CLAUDE.md
+.DS_Store
+.gitignore
+bun.lock
+PY_SCRIPT_LOGO.png
+README.md
+node_modules/
+.cursor/
